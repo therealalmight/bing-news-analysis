@@ -1,3 +1,7 @@
+-------------------------------------------------------
+------ created by: Bala Sourvendra/@therealalmight ----
+-------------------------------------------------------
+
 # bing-news-analysis
 etl/elt, fabric
 
@@ -14,3 +18,5 @@ etl/elt, fabric
 2) Add notebook news_process to copy data activity
 3) Add sentiment_analysis notebook to prev notebook
 4) Schedule, monitor pipeline daily
+
+mail me: balasourvendra@gmail.com if you have any further query
